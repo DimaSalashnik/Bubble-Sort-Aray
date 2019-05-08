@@ -1,0 +1,6 @@
+C:\Users\userP\source\repos\SortApp\SortApp\bin\Debug\SortApp.exe.config
+C:\Users\userP\source\repos\SortApp\SortApp\bin\Debug\SortApp.exe
+C:\Users\userP\source\repos\SortApp\SortApp\bin\Debug\SortApp.pdb
+C:\Users\userP\source\repos\SortApp\SortApp\obj\Debug\SortApp.csproj.CoreCompileInputs.cache
+C:\Users\userP\source\repos\SortApp\SortApp\obj\Debug\SortApp.exe
+C:\Users\userP\source\repos\SortApp\SortApp\obj\Debug\SortApp.pdb
