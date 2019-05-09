@@ -1,0 +1,11 @@
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp2.1\BubbleSortArray.deps.json
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp2.1\BubbleSortArray.runtimeconfig.json
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp2.1\BubbleSortArray.runtimeconfig.dev.json
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp2.1\BubbleSortArray.dll
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\bin\Debug\netcoreapp2.1\BubbleSortArray.pdb
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp2.1\BubbleSortArray.csprojAssemblyReference.cache
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp2.1\BubbleSortArray.csproj.CoreCompileInputs.cache
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp2.1\BubbleSortArray.AssemblyInfoInputs.cache
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp2.1\BubbleSortArray.AssemblyInfo.cs
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp2.1\BubbleSortArray.dll
+D:\Проекты Visual Studio\BubbleSortArray\BubbleSortArray\obj\Debug\netcoreapp2.1\BubbleSortArray.pdb
